@@ -8,16 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Why should I even care about my credit score?
-    text: >+
-      Your credit score is the **key** that unlocks the ability to get a loan,
-      even your ability to rent an apartment
-
+    text: |+
+      Your credit score is the **key** that unlocks:
 
       *   Lower credit card interest rate
 
-
-      *   The ability to qualify for and the interest rate on loans 
-
+      *   The ability to qualify for and the interest rate on loans
 
       *   Even your ability to rent an apartment
 
