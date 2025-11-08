@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Get your credit back on track
+      text: Take Back Control of your Credit
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
