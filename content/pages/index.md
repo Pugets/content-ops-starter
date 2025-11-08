@@ -8,10 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Why should I care about my credit score?
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Your credit score is the **key** that unlocks the ability to get a loan,
+      even your ability to rent an apartment
+
+
+      *   Lower credit card interest rate
+
+
+      *   The ability to qualify for and the interest rate on loans 
+
+
+      *   Even your ability to rent an apartment
+
     actions:
       - label: Get started
         altText: ''
