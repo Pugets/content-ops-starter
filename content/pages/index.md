@@ -7,7 +7,7 @@ sections:
       text: Take Back Control of your Credit
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why should I care about my credit score?
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
