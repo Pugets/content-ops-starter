@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Take Back Control of your Credit Score
+      text: Take Back Control of Your Credit Score
       color: text-dark
       type: TitleBlock
     subtitle: Why should I care about my credit score?
